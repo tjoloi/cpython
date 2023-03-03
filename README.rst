@@ -1,3 +1,5 @@
+This python fork only exists to implement a regex steps counter via stdout
+
 This is Python version 3.12.0 alpha 5
 =====================================
 
